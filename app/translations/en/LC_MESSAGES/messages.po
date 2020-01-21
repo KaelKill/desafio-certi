@@ -1,0 +1,199 @@
+# English translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-01-20 23:30-0300\n"
+"PO-Revision-Date: 2020-01-20 22:32-0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: app/number_handler.py:36
+msgid "um"
+msgstr "one"
+
+#: app/number_handler.py:36
+msgid "dois"
+msgstr "two"
+
+#: app/number_handler.py:36
+msgid "três"
+msgstr "three"
+
+#: app/number_handler.py:36
+msgid "quatro"
+msgstr "four"
+
+#: app/number_handler.py:36
+msgid "cinco"
+msgstr "five"
+
+#: app/number_handler.py:36
+msgid "seis"
+msgstr "six"
+
+#: app/number_handler.py:36
+msgid "sete"
+msgstr "seven"
+
+#: app/number_handler.py:36
+msgid "oito"
+msgstr "eight"
+
+#: app/number_handler.py:36
+msgid "nove"
+msgstr "nine"
+
+#: app/number_handler.py:37 app/number_handler.py:38
+msgid "dez"
+msgstr "ten"
+
+#: app/number_handler.py:37
+msgid "onze"
+msgstr "eleven"
+
+#: app/number_handler.py:37
+msgid "doze"
+msgstr "twelve"
+
+#: app/number_handler.py:37
+msgid "treze"
+msgstr "thirteen"
+
+#: app/number_handler.py:37
+msgid "quatorze"
+msgstr "fourteen"
+
+#: app/number_handler.py:37
+msgid "quinze"
+msgstr "fifteen"
+
+#: app/number_handler.py:37
+msgid "dezesseis"
+msgstr "sixteen"
+
+#: app/number_handler.py:37
+msgid "dezessete"
+msgstr "seventeen"
+
+#: app/number_handler.py:37
+msgid "dezoito"
+msgstr "eighteen"
+
+#: app/number_handler.py:37
+msgid "dezenove"
+msgstr "nineteen"
+
+#: app/number_handler.py:38
+msgid "vinte"
+msgstr "twelve"
+
+#: app/number_handler.py:38
+msgid "trinta"
+msgstr "thity"
+
+#: app/number_handler.py:38
+msgid "quarenta"
+msgstr "fourty"
+
+#: app/number_handler.py:38
+msgid "cinquenta"
+msgstr "fifty"
+
+#: app/number_handler.py:38
+msgid "sessenta"
+msgstr "sixty"
+
+#: app/number_handler.py:38
+msgid "setenta"
+msgstr "seventy"
+
+#: app/number_handler.py:38
+msgid "oitenta"
+msgstr "eighty"
+
+#: app/number_handler.py:38
+msgid "noventa"
+msgstr "ninety"
+
+#: app/number_handler.py:39
+msgid "cento"
+msgstr "one hundred"
+
+#: app/number_handler.py:39
+msgid "duzentos"
+msgstr "two hundred"
+
+#: app/number_handler.py:39
+msgid "trezentos"
+msgstr "three hundred"
+
+#: app/number_handler.py:39
+msgid "quatrocentos"
+msgstr "four hundred"
+
+#: app/number_handler.py:39
+msgid "quinhentos"
+msgstr "five hundred"
+
+#: app/number_handler.py:39
+msgid "seiscentos"
+msgstr "six hundred"
+
+#: app/number_handler.py:39
+msgid "setecentos"
+msgstr "seven hundred"
+
+#: app/number_handler.py:39
+msgid "oitocentos"
+msgstr "eight hundred"
+
+#: app/number_handler.py:39
+msgid "novecentos"
+msgstr "nine hundred"
+
+#: app/number_handler.py:46
+msgid "cem"
+msgstr "one hundred"
+
+#: app/number_handler.py:57 app/number_handler.py:63
+msgid " e "
+msgstr " and "
+
+#: app/number_handler.py:58
+msgid " mil"
+msgstr " thousand"
+
+#: app/number_handler.py:66
+msgid "menos "
+msgstr "minus "
+
+#: app/server.py:19
+msgid "Ola"
+msgstr "Hello"
+
+#: app/server.py:26
+msgid "Argumento invalido"
+msgstr "Invalid input"
+
+#: app/server.py:28
+msgid "Número fora do intervalo"
+msgstr "Number out of range"
+
+#: app/server.py:32
+msgid "extenso"
+msgstr "written form"
+
+#~ msgid "Olá"
+#~ msgstr "Hello"
+
