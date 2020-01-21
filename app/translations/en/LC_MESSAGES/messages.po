@@ -96,11 +96,11 @@ msgstr "nineteen"
 
 #: app/number_handler.py:38
 msgid "vinte"
-msgstr "twelve"
+msgstr "twenty"
 
 #: app/number_handler.py:38
 msgid "trinta"
-msgstr "thity"
+msgstr "thirty"
 
 #: app/number_handler.py:38
 msgid "quarenta"
