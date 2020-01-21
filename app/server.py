@@ -24,7 +24,7 @@ def index(number, lang='pt'):
     g.lang_code = lang
     if not number.isdigit():
         return _("Argumento invalido")
-        
+
     if int(number) < -99999 or int(number) > 99999:
         return _("Número fora do intervalo")
 
@@ -35,4 +35,4 @@ def index(number, lang='pt'):
     return json.dumps(resp)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host='0.0.0.0')
