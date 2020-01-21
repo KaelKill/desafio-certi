@@ -9,8 +9,6 @@ RUN python -m venv venv
 RUN venv/bin/pip install -r requirements.txt
 
 COPY app app
-
-
 RUN chown -R desafio_certi:desafio_certi ./
 USER desafio_certi
 

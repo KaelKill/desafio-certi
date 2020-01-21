@@ -22,7 +22,9 @@ def home():
 @app.route('/<number>', methods=['GET'])
 def index(number, lang='pt'):
     g.lang_code = lang
-    if not number.isdigit():
+    try:
+        int(number)
+    except:
         return _("Argumento invalido")
 
     if int(number) < -99999 or int(number) > 99999:

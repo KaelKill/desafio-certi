@@ -31,7 +31,7 @@ class Number_Handler:
             self.blocks.append(num_block)
 
     def number_to_text(self):
-        units = ['', _('um'), _('dois'), _('três'), _('quatro'), _('cinco'), _('seis'), _('sete'), _('oito'), _('nove')]
+        units = ['', _('um'), _('dois'), _('tres'), _('quatro'), _('cinco'), _('seis'), _('sete'), _('oito'), _('nove')]
         teens = [_('dez'), _('onze'), _('doze'), _('treze'), _('quatorze'), _('quinze'), _('dezesseis'), _('dezessete'), _('dezoito'), _('dezenove')]
         tens  = ['', _('dez'), _('vinte'), _('trinta'), _('quarenta'), _('cinquenta'), _('sessenta'), _('setenta'), _('oitenta'), _('noventa')]
         cents = ['', _('cento'), _('duzentos'), _('trezentos'), _('quatrocentos'), _('quinhentos'), _('seiscentos'), _('setecentos'), _('oitocentos'), _('novecentos')]
