@@ -30,7 +30,7 @@ Acesse o endereço 127.0.0.1:5000/*numeros* passando numeros entre -99999 e 9999
 $ curl 127.0.0.1:5000/5000
 {"extenso": "cinco mil"}
 
-$curl 127.0.0.1:5000/-14753
+$ curl 127.0.0.1:5000/-14753
 {"extenso": "menos quatorze mil e setecentos e cinquenta e tres"}
 ```
 É possivel obter a resposta em ingles acrescentando */en* à URL:
