@@ -35,6 +35,6 @@ $ curl 127.0.0.1:5000/-14753
 ```
 É possivel obter a resposta em ingles acrescentando */en* à URL:
 ```shell
-$ curl 127.0.0.1:5000/5000
+$ curl 127.0.0.1:5000/en/5000
 {"written form": "five thousand"}
 ```
